@@ -13,3 +13,5 @@ TODO:
 * Several processing routines.
 
 
+
+Original code https://github.com/FabricioS/libim7
